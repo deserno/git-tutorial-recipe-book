@@ -1,7 +1,5 @@
 # CodeRefinery recipe book
 
-This is a test repository.
-
 We use this repository to teach Git and also to collect
 some nice recipes.
 
